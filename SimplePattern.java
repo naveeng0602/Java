@@ -19,7 +19,7 @@ public class SimplePattern {
         // System.out.println(" ");
         // }
 
-        // Charcter//
+        // Character//
 
         // for(char i='F';i<='K';i++){
         // for(char j='F';j<='K';j++) {
